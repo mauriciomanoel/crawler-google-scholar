@@ -221,7 +221,6 @@
                 echo $url_action . "<br>";
                 $bibtex = save_data_bibtex($url_action);
                 echo $bibtex . "<br>";
-                // var_dump($bibtex); exit;
             @ flush();
         }
          exit;
@@ -240,22 +239,20 @@
         $classname="gs_r gs_or gs_scl";
         $values = getHTMLFromClass($html, $classname);
 
-        var_dump($values); exit;
-        
-        // $dom = getDOM($html);
-        // $finder = new DomXPath($dom);
-        
-        // $nodes = $finder->query("//*[contains(@class, '$classname')]");
+        foreach($values as $value) {
+            $html_article = getHTMLFromClass($value, "gs_or_ggsm");
+            $html_link_article = getHTMLFromClass($value, "gs_rt");
+            // var_dump($html_link_article); exit;
 
-        // $value = $dom->saveHTML($nodes[1]);
-        
-        // $value2 = getHTMLFromClass($value, "gs_or_ggsm");
-        // var_dump($value2); exit;
-        
-        // $divs = '/<div class="gs_or_ggsm"(.*)<\/div>/iU';
-        // preg_match_all($divs, $value, $arr, PREG_PATTERN_ORDER);
+            // if (!empty($html_article[0]))
+            //     var_dump(getURLPDF($html_article[0]));
 
-
+            if (!empty($html_link_article[0]))
+                var_dump(getURLFromHTML($html_link_article[0]));
+        }
+        // var_dump($values); 
+        exit;
+        
         var_dump($arr); exit;
         foreach($nodes as $node) {
             
@@ -323,6 +320,14 @@
         }
         
         return $values;
+    }
+
+    function getURLFromHTML($html) {
+        preg_match_all('/href="([^"]+)"/', $html, $arr, PREG_PATTERN_ORDER);
+        if (!empty($arr[1])) {
+            return $arr[1];
+        }
+        return "";
     }
 
 ?>

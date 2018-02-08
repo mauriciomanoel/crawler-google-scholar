@@ -20,4 +20,17 @@ foreach($html->find('div[id=gs_res_ccl_mid]') as $element) {
     
 }
     // echo $element . '<br>';
+
+            // $dom = getDOM($html);
+        // $finder = new DomXPath($dom);
+        
+        // $nodes = $finder->query("//*[contains(@class, '$classname')]");
+
+        // $value = $dom->saveHTML($nodes[1]);
+        
+        // $value2 = getHTMLFromClass($value, "gs_or_ggsm");
+        // var_dump($value2); exit;
+        
+        // $divs = '/<div class="gs_or_ggsm"(.*)<\/div>/iU';
+        // preg_match_all($divs, $value, $arr, PREG_PATTERN_ORDER);
 ?>
