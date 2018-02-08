@@ -158,16 +158,24 @@
     }
 
     function getDataCID($html) {
-        $values = array();
-        $dom = getDOM($html);
-        foreach ($dom->getElementsByTagName('div') as $node) {
-            if ($node->hasAttribute( 'data-cid' )) {
-               
-                    $data_cid = $node->getAttribute( 'data-cid' );
-                    $values[] = $data_cid;
-            }
+
+        preg_match_all('/data-cid="([^"]+)"/', $html, $values, PREG_PATTERN_ORDER);
+
+        if (!empty($values[1])) {
+            return $values[1];
         }
-        return $values;
+        return array();
+
+        // $values = array();
+        // $dom = getDOM($html);
+        // foreach ($dom->getElementsByTagName('div') as $node) {
+        //     if ($node->hasAttribute( 'data-cid' )) {
+               
+        //             $data_cid = $node->getAttribute( 'data-cid' );
+        //             $values[] = $data_cid;
+        //     }
+        // }
+        // return $values;
     }
 
     function save_data_bibtex($url) {
@@ -206,6 +214,7 @@
         }
 
         $datacids = getDataCID($html);
+        
         foreach($datacids as $data_cid) {
             while (@ ob_end_flush()); // end all output buffers if any
                 $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data_cid . ":scholar.google.com/&output=cite&scirp=0&hl=en";
@@ -218,6 +227,102 @@
          exit;
         
         return $html;     
+    }
+
+    function save_data_key($html) {
+        $content        = "";
+        $data_cid       = "";
+        $link_pdf       = "";
+        $link_article   = "";
+        $title_article  = "";
+        $cited_by       = "";
+        
+        $classname="gs_r gs_or gs_scl";
+        $values = getHTMLFromClass($html, $classname);
+
+        var_dump($values); exit;
+        
+        // $dom = getDOM($html);
+        // $finder = new DomXPath($dom);
+        
+        // $nodes = $finder->query("//*[contains(@class, '$classname')]");
+
+        // $value = $dom->saveHTML($nodes[1]);
+        
+        // $value2 = getHTMLFromClass($value, "gs_or_ggsm");
+        // var_dump($value2); exit;
+        
+        // $divs = '/<div class="gs_or_ggsm"(.*)<\/div>/iU';
+        // preg_match_all($divs, $value, $arr, PREG_PATTERN_ORDER);
+
+
+        var_dump($arr); exit;
+        foreach($nodes as $node) {
+            
+           var_dump($dom->saveHTML($nodes[1])); exit;
+        }
+        exit;
+        foreach ($dom->getElementsByTagName('div') as $node) {
+
+            if ($node->hasAttribute( 'data-cid' )) {
+                $data_cid = trim($node->getAttribute( 'data-cid' ));
+            }
+            if ($node->hasAttribute( 'class' )) {
+                if ($node->getAttribute( 'class' ) == "gs_or_ggsm") {
+                    $child = $node->firstChild;
+                    $link_pdf = trim($child->getAttribute( 'href' ));
+                }
+                if ($node->getAttribute( 'class' ) == "gs_ri") {
+                    $childsDiv = $node->childNodes;
+                    $nodeTitle = $childsDiv->item(0);
+                    if ($nodeTitle->getElementsByTagName('a')->length > 0) {
+                        $link_article = trim($nodeTitle->getElementsByTagName('a')->item(0)->getAttribute( 'href' ));
+                    }                    
+                    $title_article = trim($nodeTitle->textContent);
+                    
+                    foreach($childsDiv as $child) {
+                        //  var_dump($child);
+                        $textContent = trim($child->textContent);
+                        if (!empty($textContent) && (strpos($textContent, "Citado por") !== false || strpos($textContent, "Cited by") !== false)) {
+                            preg_match('/\d+/', $textContent, $matches);
+                            $cited_by = $matches[0];
+                            break;
+                        }
+                    }
+                }
+            }
+            if (!empty($data_cid) && !empty($title_article) && !empty($link_article)) {
+                $replaces = array("[BOOK][B]", "[PDF][PDF]", "[LIVRO][B]", "[CITAÇÃO][C]", "[HTML][HTML]", "[CITATION][C]");
+                $title_article = trim(str_replace($replaces, "", $title_article));
+                // var_dump(mb_detect_encoding($title_article));
+                $content .= $data_cid . "|" . slug($title_article) . "|" . $title_article . "|" . $link_article . "|". $link_pdf . "|". $cited_by . "\r\n";
+                $data_cid = "";
+                $link_pdf = "";
+                $link_article = "";
+                $title_article = "";
+                $cited_by = "";
+            }
+        }
+        
+        if (!empty($content)) {
+            $oldContent = @file_get_contents($file);
+            $newContent = $oldContent . $content;
+            file_put_contents($file, $newContent);
+        }    
+    }
+
+    function getHTMLFromClass($html, $classname) {
+
+        $dom = getDOM($html);
+        $finder = new DomXPath($dom);
+        $nodes = $finder->query("//*[contains(@class, '$classname')]");
+        $values = array();
+
+        foreach($nodes as $node) {
+            $values[] = $dom->saveHTML($node);
+        }
+        
+        return $values;
     }
 
 ?>
