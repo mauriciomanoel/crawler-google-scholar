@@ -121,6 +121,8 @@
     function getCookie($url) {
         $ch = curl_init($url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt( $ch, CURLOPT_SSL_VERIFYPEER, false); 
+        curl_setopt( $ch, CURLOPT_HTTPGET, 1 ); 
         // get headers too with this line
         curl_setopt($ch, CURLOPT_HEADER, 1);
         $result = curl_exec($ch);
@@ -190,8 +192,7 @@
         return $content;
     }
 
-    function progress_google($url) {
-        echo "<br>" . $url . "<br>";
+    function progress_google($url, $file) {
         $parameters["referer"]  = $url;
         $parameters["host"]     = "scholar.google.com.br";
         $html = loadURL($url, COOKIE, USER_AGENT, array(), $parameters["referer"]);
@@ -202,63 +203,69 @@
             echo $html; exit;
         }
 
-        // $datacids = getDataCID($html);
-
         $classname="gs_r gs_or gs_scl";
         $values = getHTMLFromClass($html, $classname);
         
+        $bibtex_new = "";
         foreach($values as $value) {
-            $data = get_data_google_scholar($value);
-            var_dump($data); exit;
-            
-            while (@ ob_end_flush()); // end all output buffers if any
-                $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data_cid . ":scholar.google.com/&output=cite&scirp=0&hl=en";
-                echo $url_action . "<br>";
-                $bibtex = save_data_bibtex($url_action);
-                removeDelimiters($bibtex); exit;
-                var_dump(trim(($bibtex))); exit;
 
-                echo $bibtex . "<br>";
+            $data = get_data_google_scholar($value);
+            while (@ ob_end_flush()); // end all output buffers if any
+                echo $data["title"] . "<br>";
+                $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data["data_cid"] . ":scholar.google.com/&output=cite&scirp=0&hl=en";
+                echo $url_action . "<br><br>";
+                $bibtex     = save_data_bibtex($url_action);
+                $bibtex_new .= add_fields_bibtex($bibtex, $data);
+                unset($data["title"]);
+                unset($data["data_cid"]);
+                sleep(rand(4,8));
             @ flush();
+
         }
-         exit;
-        
-        return $html;     
+
+        if (!empty($bibtex_new)) {
+            $oldContent = @file_get_contents($file);
+            $newContent = $oldContent . $bibtex_new;
+            file_put_contents($file, $newContent);
+        }
     }
 
-    function save_data_key($html) {
-        $content        = "";
-        $data_cid       = "";
-        $link_pdf       = "";
-        $link_article   = "";
-        $title_article  = "";
-        $cited_by       = "";
-        
-        $classname="gs_r gs_or gs_scl";
-        $values = getHTMLFromClass($html, $classname);
+    function add_fields_bibtex($bibtex, $data) 
+    {
+        $bibtex = trim($bibtex);
+        $string = "";
+        if (getDelimiter($bibtex) == "{") {
+            foreach($data as $key => $value) {
+                $string .= "  " . $key . "={" . $value . "}," . "\n";
+            }
+            $string = rtrim(trim($string), ",");
+            $string .= "\n";
+        }
 
-        foreach($values as $value) {
+        $bibtex = trim(substr($bibtex, 0, -1));        
+        if ( substr($bibtex, strlen($bibtex)-1) == ",") {
+            $bibtex .= "\n";
+        } else {
+            $bibtex .= ",\n";
+        }
+        $bibtex .= "  " . $string;
+        $bibtex .= "}\n";
 
-            $data_cid               = @getDataCID($value)[0];
-            $html_pdf_article       = arrayToString(getHTMLFromClass($value, "gs_or_ggsm"));
-            $html_link_article      = arrayToString(getHTMLFromClass($value, "gs_rt"));
-            $html_options_article   = arrayToString(getHTMLFromClass($value, "gs_fl"));
-            $title_article          = trim(preg_replace("/\[(.*?)\]/i", "", strip_tags($html_link_article))); // remove [*]
-            var_dump($data_cid); exit;
-        }    
+        return $bibtex;
     }
 
     function get_data_google_scholar($value) {
 
         $data_cid               = @getDataCID($value)[0];
-        $html_pdf_article       = arrayToString(getHTMLFromClass($value, "gs_or_ggsm"));
-        $html_link_article      = arrayToString(getHTMLFromClass($value, "gs_rt"));
-        $link_article           = getURLFromHTML($html_link_article);
-        $html_options_article   = arrayToString(getHTMLFromClass($value, "gs_fl"));
+        $html_pdf_article       = @arrayToString(getHTMLFromClass($value, "gs_or_ggsm"));
+        $pdf_article            = @getURLFromHTML($html_pdf_article);
+        $html_link_article      = @arrayToString(getHTMLFromClass($value, "gs_rt"));
+        $link_article           = @getURLFromHTML($html_link_article);
+        $html_options_article   = @arrayToString(getHTMLFromClass($value, "gs_fl"));
         $title_article          = trim(preg_replace("/\[(.*?)\]/i", "", strip_tags($html_link_article))); // remove [*]
-        $cited_by               = getCitedFromHTML($html_options_article);
+        $cited_by               = @getCitedFromHTML($html_options_article);
 
-        return array("data_cid"=> $data_cid, "pdf"=>$html_pdf_article, "link"=>$link_article, "title"=>$title_article, "cited_by"=>$cited_by);
+        return array("title"=>$title_article, "data_cid"=> $data_cid, "pdf_file"=>$pdf_article, "link_google"=>$link_article, "cited_by"=>$cited_by);
     }
 
     function getHTMLFromClass($html, $classname) {
@@ -296,7 +303,7 @@
         return implode(" ", $value);
     }
 
-	function getDelimiters($string)
+	function getDelimiter($string)
 	{
         $string = trim($string);
         $string = str_replace(array(" ","\n"), "", $string);
