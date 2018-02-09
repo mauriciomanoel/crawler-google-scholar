@@ -196,15 +196,14 @@
         return $content;
     }
 
-    function progress_google($url, $file) {
+    function progress_google($url, $file, $break_line) {
         $parameters["referer"]  = $url;
         $parameters["host"]     = "scholar.google.com.br";
         $html = loadURL($url, COOKIE, USER_AGENT, array(), $parameters["referer"]);
         
         // Check Google Captcha
         if ( strpos($html, "gs_captcha_cb()") !== false || strpos($html, "sending automated queries") !== false ) {
-            echo "Captha detected<br>";
-            echo $html; exit;
+            echo "Captha detected" . $break_line; exit;
         }
 
         $classname="gs_r gs_or gs_scl";
@@ -215,9 +214,9 @@
 
             $data = get_data_google_scholar($value);
             while (@ ob_end_flush()); // end all output buffers if any
-                echo $data["title"] . "<br>";
+                echo $data["title"] . $break_line;
                 $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data["data_cid"] . ":scholar.google.com/&output=cite&scirp=0&hl=en";
-                echo $url_action . "<br><br>";
+                echo $url_action . $break_line . $break_line;
                 unset($data["title"]);
                 unset($data["data_cid"]);
                 $bibtex     = save_data_bibtex($url_action);
