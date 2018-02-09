@@ -1,7 +1,7 @@
 <?php
 
-    function loadURL($url, $cookie, $user_agent, $fields=array(), $parameters=array()) {
-        
+    function loadURL($url, $cookie, $user_agent, $fields=array(), $parameters=array()) 
+    {        
         $ch 		= curl_init($url);
         curl_setopt( $ch, CURLOPT_SSL_VERIFYPEER, false);  
         curl_setopt( $ch, CURLOPT_HEADER, 0 );
@@ -45,7 +45,8 @@
         return $output;
     }
 
-    function slug($string, $replacement = '_') {
+    function slug($string, $replacement = '_') 
+    {
         $transliteration = array(
             '/À|Á|Â|Ã|Å|Ǻ|Ā|Ă|Ą|Ǎ/' => 'A',
             '/Æ|Ǽ/' => 'AE',
@@ -118,7 +119,8 @@
         return preg_replace(array_keys($map), array_values($map), $string);
     }
 
-    function getCookie($url) {
+    function getCookie($url) 
+    {
         $ch = curl_init($url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt( $ch, CURLOPT_SSL_VERIFYPEER, false); 
@@ -142,7 +144,8 @@
         return $cookie;
     }
 
-    function getUrl($page, $query, $includePatents = false) {
+    function getUrl($page, $query, $includePatents = false) 
+    {
         $as_sdt = "1,5";
         if ($includePatents) {
             $as_sdt = "0,5";
@@ -150,7 +153,8 @@
         return "https://scholar.google.com/scholar?&hl=en&as_sdt=" . $as_sdt . "&&start=" . $page . "&q=" . $query . "&btnG=";
     }
 
-    function getDOM($value) {
+    function getDOM($value) 
+    {
         libxml_use_internal_errors(true) && libxml_clear_errors(); // for html5
         $dom = new DOMDocument('1.0', 'UTF-8');
         $dom->loadHTML(mb_convert_encoding($value, 'HTML-ENTITIES', 'UTF-8'));
@@ -214,11 +218,11 @@
                 echo $data["title"] . "<br>";
                 $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data["data_cid"] . ":scholar.google.com/&output=cite&scirp=0&hl=en";
                 echo $url_action . "<br><br>";
-                $bibtex     = save_data_bibtex($url_action);
-                $bibtex_new .= add_fields_bibtex($bibtex, $data);
                 unset($data["title"]);
                 unset($data["data_cid"]);
-                sleep(rand(4,8));
+                $bibtex     = save_data_bibtex($url_action);
+                $bibtex_new .= add_fields_bibtex($bibtex, $data);                
+                sleep(rand(4,8)); // rand between 4 and 8 seconds
             @ flush();
 
         }
