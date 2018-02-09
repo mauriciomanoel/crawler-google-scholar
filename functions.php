@@ -220,7 +220,10 @@
                 unset($data["title"]);
                 unset($data["data_cid"]);
                 $bibtex     = save_data_bibtex($url_action);
-                $bibtex_new .= add_fields_bibtex($bibtex, $data);                
+                if (!empty($bibtex)) 
+                {
+                    $bibtex_new .= add_fields_bibtex($bibtex, $data);
+                }
                 sleep(rand(4,8)); // rand between 4 and 8 seconds
             @ flush();
 
