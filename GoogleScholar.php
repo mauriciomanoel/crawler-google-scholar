@@ -78,7 +78,7 @@ class GoogleScholar {
                 Util::showMessage("Download bibtex file OK.");
                 Util::showMessage("");
             }
-            sleep(rand(8,11)); // rand between 5 and 8 seconds
+            sleep(rand(8,12)); // rand between 5 and 8 seconds
         }
 
         if (!empty($bibtex_new)) {
