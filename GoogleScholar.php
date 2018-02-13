@@ -23,30 +23,19 @@ class GoogleScholar {
 
     public static function save_data_bibtex($url) {
         $parameters = array();
-        $content    = "";
-        $parameters["host"] = "scholar.google.com.br";        
-        $html = Util::loadURL($url, COOKIE, USER_AGENT, array(), $parameters);
+        // $parameters["referer"] = "https://scholar.google.com/scholar?start=10&q=%22Internet+of+Things%3B+Medical%22&hl=en&as_sdt=0,5";
+        $parameters["host"] = "scholar.google.com";
+        $html = Util::loadURL($url, COOKIE, USER_AGENT, array(), $parameters);        
         $parameters["host"] = "scholar.googleusercontent.com";
-        $parameters["referer"] = $url;
+        $parameters["referer"] = "https://scholar.google.com/";
 
         $values = Util::getHTMLFromClass($html, "gs_citi", "a");
         $urlBibtex = Util::getURLFromHTML(@$values[0]);
 
-        $content = Util::loadURL($urlBibtex, COOKIE, USER_AGENT, array(), $parameters);
-
-        // var_dump($urlBibtex); exit;
-        // $dom = Util::getDOM($html);
-        // foreach ($dom->getElementsByTagName('div') as $node) {
-        //     if ($node->hasAttribute( 'id' )) {
-        //         if ($node->getAttribute( 'id' ) == "gs_citi") {
-        //             $child = $node->firstChild;
-        //             $urlBibtex = trim($child->getAttribute( 'href' ));
-        //             $content .= Util::loadURL($urlBibtex, COOKIE, USER_AGENT, array(), $parameters);
-        //             break;
-        //         }
-        //     }
-        // }
-
+        $urlBibtex = str_replace("&amp;", "&", $urlBibtex);
+        //$urlBibtex = "https://scholar.googleusercontent.com/scholar.bib?q=info:aJ5ca2TgNY0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoJsao3nSIjSUy4nAY8kMqc-hgu_WvV1&scisf=4&ct=citation&cd=-1&hl=en";
+        $content = Util::loadURL($urlBibtex, "", USER_AGENT, array(), $parameters);
+        
         return $content;
     }
 
@@ -67,18 +56,21 @@ class GoogleScholar {
 
             $data = self::get_data_google_scholar($value);
             Util::showMessage($data["title"]);
-            $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data["data_cid"] . ":scholar.google.com/&output=cite&scirp=0&hl=en";
-            // echo $url_action . $break_line . $break_line;
+            $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data["data_cid"] . ":scholar.google.com/&output=cite&scirp=0&hl=en";            
             unset($data["title"]);
             unset($data["data_cid"]);
             $bibtex     = self::save_data_bibtex($url_action);
-            if (!empty($bibtex)) {
-                $bibtex_new .= Util::add_fields_bibtex($bibtex, $data);
-                Util::showMessage("Download bibtex file OK.");
-                Util::showMessage("");
+            if ( strpos($bibtex, "innerHTML") !== false || 
+                 strpos($bibtex, "<body>") !== false || 
+                 strpos($bibtex, "function(") !== false || 
+                 strpos($bibtex, "<html>") !== false) {
+                Util::showMessage("Detected HTML"); exit;                
             }
-            sleep(rand(4,8)); // rand between 4 and 8 seconds
 
+            $bibtex_new .= Util::add_fields_bibtex($bibtex, $data);
+            Util::showMessage("Download bibtex file OK.");
+            Util::showMessage("");
+            sleep(rand(4,8)); // rand between 4 and 8 seconds
         }
 
         if (!empty($bibtex_new)) {

@@ -27,6 +27,7 @@ Class Util {
         $header[] = "Upgrade-Insecure-Requests: 1";
         $header[] = "Pragma: ";
         $header[] = "Cookie: " . $cookie;
+        $headers[] = "Dnt: 1";
         if (!empty($parameters["host"])) {
             $header[] = "Host: " . $parameters["host"];
         }
