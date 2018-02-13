@@ -25,7 +25,7 @@
 
         $file           = Util::slug(trim($file_name)) . ".bib";
         $url            = GoogleScholar::getURL(0, $query_string);        
-        $cookie         = "GSP=LD=en:LR=lang_en:NR=20:CF=4:DT=1:LM=1518535910:S=mcL3AI6G-bZ4o8oJ; NID=123=CldAvABaPXy4tPVcUoWOAux2U6qqs8Uqo-akNMbARVoIA9TQilopkpVDtp9_XH_eAPe4CUe9ssPLDnJIJT2Fx3eTVP1HZ_Ttu3LhReU2Agr1M8eO4HpXYE5UihGCgGJL";
+        $cookie         = "NID=123=Ddt8zMAiwno3P3m1yM-DQWuvKMtsHy0xtR1WOJLzAWGdW1LQpc6ZHIF9xWplVKCfJZCB0qlMeer3-JIY9H4Kh_4XnIj9Hea4z57kFzDQYwtiNoRDzCRjdJv5DKjD5vi5; GSP=LD=en:LR=lang_en:NR=20:CF=4:DT=1:LM=1518563328:S=7MwTOjpEsT39UnkE";
         // $cookie         = Util::getCookie($url);
 
         $user_agent     = (!empty($_SERVER["HTTP_USER_AGENT"])) ? $_SERVER["HTTP_USER_AGENT"] : "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0";
