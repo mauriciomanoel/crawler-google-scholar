@@ -24,14 +24,15 @@ class GoogleScholar {
     public static function save_data_bibtex($url) {
         $parameters = array();
         // $parameters["referer"] = "https://scholar.google.com/scholar?start=10&q=%22Internet+of+Things%3B+Medical%22&hl=en&as_sdt=0,5";
-        $parameters["host"] = "scholar.google.com";
-        $html = Util::loadURL($url, COOKIE, USER_AGENT, array(), $parameters);        
+        // $parameters["host"] = "scholar.google.com";
+        // $html = Util::loadURL($url, COOKIE, USER_AGENT, array(), $parameters);        
         $parameters["host"] = "scholar.googleusercontent.com";
         $parameters["referer"] = "https://scholar.google.com/";
 
-        $values = Util::getHTMLFromClass($html, "gs_citi", "a");
-        $urlBibtex = Util::getURLFromHTML(@$values[0]);
-        $urlBibtex = str_replace("&amp;", "&", $urlBibtex);
+        // $values = Util::getHTMLFromClass($html, "gs_citi", "a");
+        // $urlBibtex = Util::getURLFromHTML(@$values[0]);
+        // $urlBibtex = str_replace("&amp;", "&", $urlBibtex);
+        $urlBibtex = str_replace("&amp;", "&", $url);
         Util::showMessage($urlBibtex);
         $content = Util::loadURL($urlBibtex, "", USER_AGENT, array(), $parameters);
         
@@ -51,6 +52,7 @@ class GoogleScholar {
         $classname="gs_r gs_or gs_scl";
         $values = Util::getHTMLFromClass($html, $classname);        
         $bibtex_new = "";
+        $could_not_downloaded = 0;
         foreach($values as $value) {
 
             $data = self::get_data_google_scholar($value);
@@ -58,21 +60,25 @@ class GoogleScholar {
             $url_action = "https://scholar.google.com.br/scholar?q=info:" . $data["data_cid"] . ":scholar.google.com/&output=cite&scirp=0&hl=en";            
             unset($data["title"]);
             unset($data["data_cid"]);
-            $bibtex     = self::save_data_bibtex($url_action);
+            $bibtex     = self::save_data_bibtex($data["link_bibtex"]);
             if ( strpos($bibtex, "innerHTML") !== false || 
                  strpos($bibtex, "<body>") !== false || 
-                 strpos($bibtex, "function(") !== false || 
+                 strpos($bibtex, "function(") !== false ||
+                 strpos($bibtex, "gs_captcha_cb()") !== false ||
+                 strpos($bibtex, "sending automated queries") !== false ||
                  strpos($bibtex, "<html>") !== false) {
-                Util::showMessage("Detected HTML"); exit;
+                Util::showMessage("Detected HTML or Captha detected"); exit;
             }
             if (empty( $bibtex)) {
                 Util::showMessage("Bibtex could not be downloaded"); 
+                $could_not_downloaded++;
+                if ($could_not_downloaded > 3) exit;
             } else {
                 $bibtex_new .= Util::add_fields_bibtex($bibtex, $data);
                 Util::showMessage("Download bibtex file OK.");
                 Util::showMessage("");
             }
-            sleep(rand(5,8)); // rand between 5 and 8 seconds
+            sleep(rand(8,11)); // rand between 5 and 8 seconds
         }
 
         if (!empty($bibtex_new)) {
@@ -94,8 +100,11 @@ class GoogleScholar {
         $html_options_article   = @Util::arrayToString(Util::getHTMLFromClass($value, "gs_fl"));
         $title_article          = trim(preg_replace("/\[(.*?)\]/i", "", strip_tags($html_link_article))); // remove [*]
         $cited_by               = @self::getCitedFromHTML($html_options_article);
+        $link_bibtex            = @Util::getURLFromHTML(@Util::arrayToString(Util::getHTMLFromClass($value, "gs_nta gs_nph")));
+        
+        return array("title"=>$title_article, "data_cid"=> $data_cid, "pdf_file"=>$pdf_article, "link_google"=>$link_article, "cited_by"=>$cited_by, "link_bibtex"=>$link_bibtex);
 
-        return array("title"=>$title_article, "data_cid"=> $data_cid, "pdf_file"=>$pdf_article, "link_google"=>$link_article, "cited_by"=>$cited_by);
+        // return array("title"=>$title_article, "data_cid"=> $data_cid, "pdf_file"=>$pdf_article, "link_google"=>$link_article, "cited_by"=>$cited_by);
     }  
 
     public static function getCitedFromHTML($html) {
