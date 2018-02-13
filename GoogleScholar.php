@@ -31,9 +31,8 @@ class GoogleScholar {
 
         $values = Util::getHTMLFromClass($html, "gs_citi", "a");
         $urlBibtex = Util::getURLFromHTML(@$values[0]);
-
         $urlBibtex = str_replace("&amp;", "&", $urlBibtex);
-        //$urlBibtex = "https://scholar.googleusercontent.com/scholar.bib?q=info:aJ5ca2TgNY0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoJsao3nSIjSUy4nAY8kMqc-hgu_WvV1&scisf=4&ct=citation&cd=-1&hl=en";
+        Util::showMessage($urlBibtex);
         $content = Util::loadURL($urlBibtex, "", USER_AGENT, array(), $parameters);
         
         return $content;
@@ -64,13 +63,16 @@ class GoogleScholar {
                  strpos($bibtex, "<body>") !== false || 
                  strpos($bibtex, "function(") !== false || 
                  strpos($bibtex, "<html>") !== false) {
-                Util::showMessage("Detected HTML"); exit;                
+                Util::showMessage("Detected HTML"); exit;
             }
-
-            $bibtex_new .= Util::add_fields_bibtex($bibtex, $data);
-            Util::showMessage("Download bibtex file OK.");
-            Util::showMessage("");
-            sleep(rand(4,8)); // rand between 4 and 8 seconds
+            if (empty( $bibtex)) {
+                Util::showMessage("Bibtex could not be downloaded"); 
+            } else {
+                $bibtex_new .= Util::add_fields_bibtex($bibtex, $data);
+                Util::showMessage("Download bibtex file OK.");
+                Util::showMessage("");
+            }
+            sleep(rand(5,8)); // rand between 5 and 8 seconds
         }
 
         if (!empty($bibtex_new)) {

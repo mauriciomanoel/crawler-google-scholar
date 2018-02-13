@@ -149,6 +149,7 @@ Class Util {
 
     public static function getDOM($value) 
     {
+        if (empty($value)) return null;
         libxml_use_internal_errors(true) && libxml_clear_errors(); // for html5
         $dom = new DOMDocument('1.0', 'UTF-8');
         $dom->loadHTML(mb_convert_encoding($value, 'HTML-ENTITIES', 'UTF-8'));
@@ -209,6 +210,7 @@ Class Util {
 
     public static function getHTMLFromClass($html, $classname, $element="*") {
         $dom = self::getDOM($html);
+        if ($dom == null) return array();
         $finder = new DomXPath($dom);
         $nodes = $finder->query("//" . $element . "[contains(@class, '$classname')]");
         $values = array();
