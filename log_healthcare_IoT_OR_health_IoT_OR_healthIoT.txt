@@ -168,3 +168,667 @@ Centralized fog computing security platform for IoT and cloud in healthcare syst
 https://scholar.googleusercontent.com/scholar.bib?q=info:jyEiHi5OERcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoNzhP-ofvzohVymnmilRXjnA_BiMjbR&scisf=4&ct=citation&cd=34&hl=en
 Download bibtex file OK.
 
+IOMT: Cloud-Based Solution Offered by Health Care Center's (A special reference to IOMT's in Bangalore City)
+https://scholar.googleusercontent.com/scholar.bib?q=info:Q5xnchIzOoQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoNzhPENDB6i2FnWzqO9n_WaXk-nOnh6&scisf=4&ct=citation&cd=35&hl=en
+Download bibtex file OK.
+
+E-health-IoT Universe: A Review
+https://scholar.googleusercontent.com/scholar.bib?q=info:J1OeB2L6e20J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoNzhHU5MwXWHeVDOQdDmTAfTwInyyfh&scisf=4&ct=citation&cd=36&hl=en
+Download bibtex file OK.
+
+Wearable devices and healthcare: Data sharing and privacy
+https://scholar.googleusercontent.com/scholar.bib?q=info:sDb6JKurBsoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoNzhFzLsXaWiwNc1xgh4QikuLc7qMW_&scisf=4&ct=citation&cd=37&hl=en
+Download bibtex file OK.
+
+Ontology-based system for patient monitoring with connected objects
+https://scholar.googleusercontent.com/scholar.bib?q=info:9W2ythhdFl8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoNzhOYypWXRJQOkrTFrD4_1BQm_5qHD&scisf=4&ct=citation&cd=38&hl=en
+Download bibtex file OK.
+
+Health Care Application System using IoT
+https://scholar.googleusercontent.com/scholar.bib?q=info:0FcUpsR9T7QJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoNzhLvfyeYZEy3cVRGI6BCB_bVteiLP&scisf=4&ct=citation&cd=39&hl=en
+Download bibtex file OK.
+
+File healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 15 seconds before executing next page
+
+Page: 40
+Trust-based decision making for environmental health community of interest IoT systems.
+https://scholar.googleusercontent.com/scholar.bib?q=info:9iZB2fY38DYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cTx5gY8pKhXYeLklX7-CWxPJVd5U&scisf=4&ct=citation&cd=40&hl=en
+Download bibtex file OK.
+
+IoT in Healthcare: Breaching Security Issues
+https://scholar.googleusercontent.com/scholar.bib?q=info:0XcsGDw8fbcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cdL3-F71BWB3xVh6PqmsdGuit6tL&scisf=4&ct=citation&cd=41&hl=en
+Download bibtex file OK.
+
+A Framework For Integration of A Patients' Body Area Network With Iot
+https://scholar.googleusercontent.com/scholar.bib?q=info:Y79DGgZerM4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cVfiCsFs2qwjVkPB-cHTyk3mipn2&scisf=4&ct=citation&cd=42&hl=en
+Download bibtex file OK.
+
+An efficient IoT healthcare service management model of location tracking sensor
+https://scholar.googleusercontent.com/scholar.bib?q=info:2QCVHuke3PsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cST18Pygyq-kejzYX2WwzQ1A4Jkr&scisf=4&ct=citation&cd=43&hl=en
+Download bibtex file OK.
+
+Applications Based on Service-Oriented Architecture (SOA) in the Field of Home Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:2xOty1rn7pMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cbd30lE_I15DhYFd99c8Z92SEsMU&scisf=4&ct=citation&cd=44&hl=en
+Download bibtex file OK.
+
+The IoT Implementation Technology for e-Health Device Connection
+https://scholar.googleusercontent.com/scholar.bib?q=info:dyqxU4i4SJQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cZ_NsUnnv8J_SivbJSdNDTd9mNiQ&scisf=4&ct=citation&cd=45&hl=en
+Download bibtex file OK.
+
+Security and Privacy in the Internet of Medical Things: Taxonomy and Risk Assessment
+https://scholar.googleusercontent.com/scholar.bib?q=info:joG4Y0A4XF8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cRDc1BQv-1Kq0F9Sb69DjxZRL6g2&scisf=4&ct=citation&cd=46&hl=en
+Download bibtex file OK.
+
+A Smart Water Bottle for New Seniors: Internet of Things (IoT) and Health Care Services
+https://scholar.googleusercontent.com/scholar.bib?q=info:k9uNxUhVB1AJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0ccM6rqlcQ1LPPFl2P7bD6fP3pVG5&scisf=4&ct=citation&cd=47&hl=en
+Download bibtex file OK.
+
+Opportunities and challenges of the Internet of Things for healthcare: Systems engineering perspective
+https://scholar.googleusercontent.com/scholar.bib?q=info:_aEqwrTxGiUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cenn85SlYL4URdiO5zecIMJF_Cts&scisf=4&ct=citation&cd=48&hl=en
+Download bibtex file OK.
+
+Software defined healthcare networks
+https://scholar.googleusercontent.com/scholar.bib?q=info:Y84jUIEbEmAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cYffn3EDXmI-arGZfk2UNXkmKizB&scisf=4&ct=citation&cd=49&hl=en
+Download bibtex file OK.
+
+Internet of Things in Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:InpFJTdgk0sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cWqXOeYtL2xgpsBkaewIOIOSqkWq&scisf=4&ct=citation&cd=50&hl=en
+Download bibtex file OK.
+
+Verifying a secure authentication protocol for IoT medical devices
+https://scholar.googleusercontent.com/scholar.bib?q=info:2GuNeoHcsuYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cVmk_AherC0dXVp5ljXuT-LU8yDa&scisf=4&ct=citation&cd=51&hl=en
+Download bibtex file OK.
+
+Raman Spectroscopic Analysis of Human Skin by Monte Carlo simulation
+https://scholar.googleusercontent.com/scholar.bib?q=info:S-iJ0cSnfV0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cfq_M7PJYgZEY5-hRpy60NjzLefo&scisf=4&ct=citation&cd=52&hl=en
+Download bibtex file OK.
+
+Medical Information Management Scheme of Healthcare Service Patient through 2-way Access Control
+https://scholar.googleusercontent.com/scholar.bib?q=info:kuAH9NpXAjAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cVgUX0sB-6wA1oBkRJBqx4nG4dmy&scisf=4&ct=citation&cd=53&hl=en
+Download bibtex file OK.
+
+Special Issue on 5G Wireless Networks for IoT and Body Sensors
+https://scholar.googleusercontent.com/scholar.bib?q=info:7M9XNN5y3PwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cXJlxGAZiMToKOLkJUJaamlcaLNq&scisf=4&ct=citation&cd=54&hl=en
+Download bibtex file OK.
+
+Issues and challenges in healthcare narrowband IoT
+https://scholar.googleusercontent.com/scholar.bib?q=info:yhD5fn5kEhAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cSx_81y83cE_Cdw3SwspawfdPc8m&scisf=4&ct=citation&cd=55&hl=en
+Download bibtex file OK.
+
+A comprehensive review on usage of Internet of Things (IoT) in healthcare system
+https://scholar.googleusercontent.com/scholar.bib?q=info:FC7EFn8KGVoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cbsKOI_dLV5JGgazJl33H_I4RVVT&scisf=4&ct=citation&cd=56&hl=en
+Download bibtex file OK.
+
+Research on a solution for efficient ecg data transmission in iot environment
+https://scholar.googleusercontent.com/scholar.bib?q=info:nbeak-Xit34J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cYfJd44h8AMeGp7tOGdGGEuFWTTG&scisf=4&ct=citation&cd=57&hl=en
+Download bibtex file OK.
+
+Internet of Things as a Solution enabler in health sector
+https://scholar.googleusercontent.com/scholar.bib?q=info:tE7gL7tfq1kJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cXGqIW3V4npehoEk3XemwZks3eB7&scisf=4&ct=citation&cd=58&hl=en
+Download bibtex file OK.
+
+An Investigation on IoT Healthcare Analytics
+https://scholar.googleusercontent.com/scholar.bib?q=info:6vkZCxsB5TAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN0cbQvTot_7_5V6HYrgIwMkYR_0O3f&scisf=4&ct=citation&cd=59&hl=en
+Download bibtex file OK.
+
+File healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 11 seconds before executing next page
+
+Page: 60
+Albia Maqbool Nazar Mohsin
+https://scholar.googleusercontent.com/scholar.bib?q=info:0Ak6QCf7ZUsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VvM9aVLhdRFZcQdd5nqOnBX_xlp4&scisf=4&ct=citation&cd=60&hl=en
+Download bibtex file OK.
+
+Secure and Reliable Internet of Things Systems for Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:3iifP-p-ZzcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vorg9yEQiLGnqyqCIwUoREu1esiS&scisf=4&ct=citation&cd=61&hl=en
+Download bibtex file OK.
+
+General Overview of IoT Empower Technology
+https://scholar.googleusercontent.com/scholar.bib?q=info:oeBNZtV5UDcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VskOeLKApYDlP9Uzu6hLdjNhNNlp&scisf=4&ct=citation&cd=62&hl=en
+Download bibtex file OK.
+
+INTERNATIONAL JOURNAL OF PURE AND APPLIED RESEARCH IN ENGINEERING AND TECHNOLOGY
+https://scholar.googleusercontent.com/scholar.bib?q=info:KC21RysRzigJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VppUsMT-kkTrnrCTtXMDjOSoibHR&scisf=4&ct=citation&cd=63&hl=en
+Download bibtex file OK.
+
+A design characteristics of smart healthcare system as the IoT application
+https://scholar.googleusercontent.com/scholar.bib?q=info:dn0Na5gT_PwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VrWeyRQSN_nVS1zjrdfhQ5i8KmHx&scisf=4&ct=citation&cd=64&hl=en
+Download bibtex file OK.
+
+HEALTHCARE USING INTERNET OF THINGS
+https://scholar.googleusercontent.com/scholar.bib?q=info:XzZb2W8A0yUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vq__3OytMbXBeyigcF2-VfsZoTO0&scisf=4&ct=citation&cd=65&hl=en
+Download bibtex file OK.
+
+A Study on the Influential Factors of Purchase Intention of Wrist Wearable Device
+https://scholar.googleusercontent.com/scholar.bib?q=info:hnoVq5lUfacJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VuEfIG9Gp1fqhERdbzz7WDkeCbjU&scisf=4&ct=citation&cd=66&hl=en
+Download bibtex file OK.
+
+SmartHealth-NDNoT: Named Data Network of Things for Healthcare Services.
+https://scholar.googleusercontent.com/scholar.bib?q=info:6g8KSRYIPHcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VrqZynrNTF1pYiPju16BEV5tEVq-&scisf=4&ct=citation&cd=67&hl=en
+Download bibtex file OK.
+
+The internet of things for healthcare monitoring: security review and proposed solution
+https://scholar.googleusercontent.com/scholar.bib?q=info:bi964mr6CZcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vlm0ttUPABvGdHPmIU8uyIyL2Ubj&scisf=4&ct=citation&cd=68&hl=en
+Download bibtex file OK.
+
+Session resumption-based end-to-end security for healthcare internet-of-things
+https://scholar.googleusercontent.com/scholar.bib?q=info:EBEkgtj-XlgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VihVEQu-iGMFJGiX2f3L6JxjB7aq&scisf=4&ct=citation&cd=69&hl=en
+Download bibtex file OK.
+
+The potential of Internet of m-health Things “m-IoT” for non-invasive glucose level sensing
+https://scholar.googleusercontent.com/scholar.bib?q=info:ANWH-rK1HNgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vo01bBCxpcud472PXMele-M8-lHA&scisf=4&ct=citation&cd=70&hl=en
+Download bibtex file OK.
+
+International Journal of Engineering Research ISSN: 2348-4039 &amp; Management Technology
+https://scholar.googleusercontent.com/scholar.bib?q=info:XdFXoKeRp14J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vp08KALmSkV-uOj0DORmEkvOz7Di&scisf=4&ct=citation&cd=71&hl=en
+Download bibtex file OK.
+
+Security Breaches and Threat Prevention in the Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:ROgnKWalLLQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VpMCqwQPLktj5JlCStY-JLqgAnbu&scisf=4&ct=citation&cd=72&hl=en
+Download bibtex file OK.
+
+Future Application Trends for Health based Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:lQXykcR4CK4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vv4IyujgwtSdEezxnFAgHyYh8WY-&scisf=4&ct=citation&cd=73&hl=en
+Download bibtex file OK.
+
+Healthcare Information System Architecture Based on Internet of Things, Big Data and Agent Technologies
+https://scholar.googleusercontent.com/scholar.bib?q=info:x2qFtwFbYnkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VjzM1LJvyKYKBDc_zM9-MmF_Bmij&scisf=4&ct=citation&cd=74&hl=en
+Download bibtex file OK.
+
+Use of E and V Spectrum Bands for providing IoT in Rural Areas through Optical Fiber Communication
+https://scholar.googleusercontent.com/scholar.bib?q=info:j936JzlcDRwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vojvody_GpI0wmNWrBNq1e6RfVYi&scisf=4&ct=citation&cd=75&hl=en
+Download bibtex file OK.
+
+IoT and Digital Transformation: A Tale of Four Industries
+https://scholar.googleusercontent.com/scholar.bib?q=info:bNdjRTWjHDEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VvwQuDNaBWaU0ND9mFQebU_bHM1h&scisf=4&ct=citation&cd=76&hl=en
+Download bibtex file OK.
+
+Application of Internet of Things in Healthcare Sector for Bottom of Pyramid in India
+https://scholar.googleusercontent.com/scholar.bib?q=info:LUgokPr-WooJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vg-nfLVvadvS3hDBF8mfinZsU-2a&scisf=4&ct=citation&cd=77&hl=en
+Download bibtex file OK.
+
+Traffic management using value function-based regulation
+https://scholar.googleusercontent.com/scholar.bib?q=info:ijaUL-AH68EJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1VgfXvTbgo51xhvb1QAwgpOmkdwVy&scisf=4&ct=citation&cd=78&hl=en
+Download bibtex file OK.
+
+Enhancement in open-circuit voltage of implantable CMOS-compatible glucose fuel cell by improving the anodic catalyst
+https://scholar.googleusercontent.com/scholar.bib?q=info:ifE_fYaue7sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN1Vju85qXnO2e_xgEt4QW7NCPGgTRc&scisf=4&ct=citation&cd=79&hl=en
+Download bibtex file OK.
+
+File healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 12 seconds before executing next page
+
+Page: 80
+Distributed device health platform using Internet of Things devices
+https://scholar.googleusercontent.com/scholar.bib?q=info:1Af4y0JE7WgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SjYOU099NKFhFm7wtVsc2RJmJ1h9&scisf=4&ct=citation&cd=80&hl=en
+Download bibtex file OK.
+
+Risks of Adding Internet of Things to Healthcare Networks
+https://scholar.googleusercontent.com/scholar.bib?q=info:dso_kePBausJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2ShoSOPPS68yrYdn275izDCKELIx7&scisf=4&ct=citation&cd=81&hl=en
+Download bibtex file OK.
+
+Fog computing in healthcare internet of things: A case study on ecg feature extraction
+https://scholar.googleusercontent.com/scholar.bib?q=info:uL-LRPBN5dUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2StrG2WSAVk4jZIuv8L77o7-V6Szl&scisf=4&ct=citation&cd=82&hl=en
+Download bibtex file OK.
+
+mHealth, IOTand Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:msy6MlUFLsAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SvcJgrH-GAW1QKIoTPQk8mldFAmi&scisf=4&ct=citation&cd=83&hl=en
+Download bibtex file OK.
+
+An Empirical Study: Data Analytics Fosters Health Care Data Management And Its Outcomes
+https://scholar.googleusercontent.com/scholar.bib?q=info:2MPnvMzyuKQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2St3e9cn5T_9CrIPH3e-RAo7egsWV&scisf=4&ct=citation&cd=84&hl=en
+Download bibtex file OK.
+
+The internet of things in healthcare: Potential applications and challenges
+https://scholar.googleusercontent.com/scholar.bib?q=info:RiU6qXs4c-UJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SlHA4XqbCP1IVewvsoka7a7-6GH0&scisf=4&ct=citation&cd=85&hl=en
+Download bibtex file OK.
+
+Developing a Health-Enabling Service System Combining Wearable Device and Personal Health Records for Older Adults
+https://scholar.googleusercontent.com/scholar.bib?q=info:_dKJ2-FDVHwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SrxIl7SRe6H70nNJfnJFJT1YRjDF&scisf=4&ct=citation&cd=86&hl=en
+Download bibtex file OK.
+
+Internet of things and big data technologies for next generation healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:KrCIKrVg54IJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2ShFPGMy-B7rK-6QfzrW5R1OOb9jZ&scisf=4&ct=citation&cd=87&hl=en
+Download bibtex file OK.
+
+Lightweight Break-glass Access Control System for Healthcare Internet-of-Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:IiIMHQfTowAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2Sspwta6C0PhAhuhlQnwpOTfsRXS_&scisf=4&ct=citation&cd=88&hl=en
+Download bibtex file OK.
+
+Big data, CEP and IoT: redefining holistic healthcare information systems and analytics
+https://scholar.googleusercontent.com/scholar.bib?q=info:hmcJ059c4WkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SjPUI30Wi5E7VOPI3CgW3q8Wui-g&scisf=4&ct=citation&cd=89&hl=en
+Download bibtex file OK.
+
+Baby Steps in E-Health: Internet of Things in a Doctor's Office
+https://scholar.googleusercontent.com/scholar.bib?q=info:sZge0fBx2zYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SoU9uzTt4NZ0uYFn32BgXtYBnibW&scisf=4&ct=citation&cd=90&hl=en
+Download bibtex file OK.
+
+A QRS detection and R point recognition method for wearable single-lead ECG devices
+https://scholar.googleusercontent.com/scholar.bib?q=info:9N7lTjoIlEgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SiSEBlzPTwKIfSsPdZAbrnFz-4GO&scisf=4&ct=citation&cd=91&hl=en
+Download bibtex file OK.
+
+Internet of Things Based Predictive Computing
+https://scholar.googleusercontent.com/scholar.bib?q=info:evZtbkFOWFcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SiogiAYMcOsDr4WmQtHaio-kc5Ma&scisf=4&ct=citation&cd=92&hl=en
+Download bibtex file OK.
+
+Mobile health (m-health) system in the context of IoT
+https://scholar.googleusercontent.com/scholar.bib?q=info:QNd3vv9SdecJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2ShfxM2s4ekOCtaSFoka39r2FyNur&scisf=4&ct=citation&cd=93&hl=en
+Download bibtex file OK.
+
+Internet of Medical Things (IOMT): Applications, Benefits and Future Challenges in Healthcare Domain
+https://scholar.googleusercontent.com/scholar.bib?q=info:WwTengn21dkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SqCpLVzs4xcwlTn3HiFZolNOVlbp&scisf=4&ct=citation&cd=94&hl=en
+Download bibtex file OK.
+
+Health capability: The representation of IoT in health domain among Jakartans
+https://scholar.googleusercontent.com/scholar.bib?q=info:ZdIueh5jI18J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SqCOkuuiSORDHisJh6hkGEndHVuc&scisf=4&ct=citation&cd=95&hl=en
+Download bibtex file OK.
+
+A Modern Health Care System Using IoT and Android
+https://scholar.googleusercontent.com/scholar.bib?q=info:88NGqZmM_lAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SgY6TSUwungMvHdAi5KHYFRskmO5&scisf=4&ct=citation&cd=96&hl=en
+Download bibtex file OK.
+
+End-to-end security scheme for mobility enabled healthcare Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:A1l8BqVtA7YJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SqFmzU3xvc4sX_pJ9pT4b4ensXmW&scisf=4&ct=citation&cd=97&hl=en
+Download bibtex file OK.
+
+Futures business models of an Internet of Things (IoT) enabled Healthcare sector
+https://scholar.googleusercontent.com/scholar.bib?q=info:X_BMQJeh1zAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2Smw_2mFXWBeh8lAt36h2mhokpiiW&scisf=4&ct=citation&cd=98&hl=en
+Download bibtex file OK.
+
+Smart Hospitals using Internet of Things (IoT)
+https://scholar.googleusercontent.com/scholar.bib?q=info:jBa3CrDaIBQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN2SnnMY_J_M-N7Ywtr6DOj__5LcTXn&scisf=4&ct=citation&cd=99&hl=en
+Download bibtex file OK.
+
+File healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 11 seconds before executing next page
+
+Page: 100
+A Framework for IoT and E-Health Systems Integration based on the Social Internet of Things Paradigm
+https://scholar.googleusercontent.com/scholar.bib?q=info:J5tk6li8IjoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NgIeIbf8ZJgF91aHPRsNmEKwmioI&scisf=4&ct=citation&cd=100&hl=en
+Download bibtex file OK.
+
+Wireless Internet: 8th International Conference, WICON 2014, Lisbon, Portugal, November 13-14, 2014, Revised Selected Papers
+https://scholar.googleusercontent.com/scholar.bib?q=info:Ot0Q4B2LU8gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NhK4hfaFAjT4wYRL_YZR87dbK3SI&scisf=4&ct=citation&cd=101&hl=en
+Download bibtex file OK.
+
+Recent Research on Wireless Body Area Networks: A Survey
+https://scholar.googleusercontent.com/scholar.bib?q=info:xCbRUcvGGykJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3Nn1N0GZxhvax4qe_DaiKloeob_WM&scisf=4&ct=citation&cd=102&hl=en
+Download bibtex file OK.
+
+Managing Criticalities of e-Health IoT systems
+https://scholar.googleusercontent.com/scholar.bib?q=info:qebfXVPtXMYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NkG1v1are4YmsRm9-IyBl8llhPnQ&scisf=4&ct=citation&cd=103&hl=en
+Download bibtex file OK.
+
+A survey of technologies in internet of things
+https://scholar.googleusercontent.com/scholar.bib?q=info:D16Bsp632VYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NhRmTh57_uGdqThxEjdcjXzpQ4qP&scisf=4&ct=citation&cd=104&hl=en
+Download bibtex file OK.
+
+Elodie Attié
+https://scholar.googleusercontent.com/scholar.bib?q=info:qdNu2yqHamMJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NpuO31DpC3StBv2xCmX3aQq21VKf&scisf=4&ct=citation&cd=105&hl=en
+Download bibtex file OK.
+
+Healthcare applications of the Internet of Things: A Review
+https://scholar.googleusercontent.com/scholar.bib?q=info:_tYaois3WIsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3No3Kk69BwAEr3Bd8TTxsBiinrvTT&scisf=4&ct=citation&cd=106&hl=en
+Download bibtex file OK.
+
+An Overview of IoT and Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:ldPM7heQg1QJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NtgqrtdXO7o-7L5R3okFF_OZsC1Z&scisf=4&ct=citation&cd=107&hl=en
+Download bibtex file OK.
+
+Cognitive telemedicine IoT technology for dynamically adaptive eHealth content management reference framework embedded in cloud architecture
+https://scholar.googleusercontent.com/scholar.bib?q=info:HU8GDltVXOcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NhY3u_yu-mzGq3m_Cwn0fkScDhO0&scisf=4&ct=citation&cd=108&hl=en
+Download bibtex file OK.
+
+BIG DATA AND THE INTERNET OF MEDICAL THINGS
+https://scholar.googleusercontent.com/scholar.bib?q=info:tmXLO9XAB0gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NuDcp1Oc-tFOgwBRPUIYkDiTC8rK&scisf=4&ct=citation&cd=109&hl=en
+Download bibtex file OK.
+
+Point-of-care diagnostics: Recent developments in a connected age
+https://scholar.googleusercontent.com/scholar.bib?q=info:P95xtWjHFdYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NjIzxxtqNjm8sMhowGDwS3q2Al_L&scisf=4&ct=citation&cd=110&hl=en
+Download bibtex file OK.
+
+Remote health monitoring system through IoT
+https://scholar.googleusercontent.com/scholar.bib?q=info:oUReMUJ0uZAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NkwjSBXiigdTNEcu6dZi838u0RGv&scisf=4&ct=citation&cd=111&hl=en
+Download bibtex file OK.
+
+Survey on security of Internet of Things in eHealth and clouds
+https://scholar.googleusercontent.com/scholar.bib?q=info:I7kiVTp9wsQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NsJE9osJVwSATQtS0re18eYhwBvs&scisf=4&ct=citation&cd=112&hl=en
+Download bibtex file OK.
+
+Fine-Grained Access Control with Attribute Based Cache Coherency for IoT with application to Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:HyZ06NSZ8J4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NvtP6NsSCiE0C6BS0sgN0nx0Q9Xs&scisf=4&ct=citation&cd=113&hl=en
+Download bibtex file OK.
+
+Mobile-edge computing architecture: The role of MEC in the Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:CNy0qUu1fHAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NiQmkLtAhpxIXdU54obzsO79-dkT&scisf=4&ct=citation&cd=114&hl=en
+Download bibtex file OK.
+
+A survey on security of IoT in the context of eHealth and clouds
+https://scholar.googleusercontent.com/scholar.bib?q=info:5kr3_94nyWgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NsXluhNi6oAujqBFCrThr8miAYH0&scisf=4&ct=citation&cd=115&hl=en
+Download bibtex file OK.
+
+Proposing a modeling framework for minimizing security vulnerabilities in IoT systems in the healthcare domain
+https://scholar.googleusercontent.com/scholar.bib?q=info:QUGhdlNm8cUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NiwQJpv6vu8909RMeHvOnLtHfNkw&scisf=4&ct=citation&cd=116&hl=en
+Download bibtex file OK.
+
+Intelligent healthcare service by using collaborations between IoT personal health devices
+https://scholar.googleusercontent.com/scholar.bib?q=info:SBpREDuzN-EJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NmLRwKkvGNir4SwJlBOxGwvyTPlz&scisf=4&ct=citation&cd=117&hl=en
+Download bibtex file OK.
+
+Insulin resistance and systemic inflammation, but not metabolic syndrome phenotype, predict 9 years mortality in older adults
+https://scholar.googleusercontent.com/scholar.bib?q=info:zUzlBi_kWgsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3Np5s3rWU4LcS1eiavHwTbZfCgjk7&scisf=4&ct=citation&cd=118&hl=en
+Download bibtex file OK.
+
+Towards energy-efficient HealthCare: An Internet-of-Things architecture using intelligent gateways
+https://scholar.googleusercontent.com/scholar.bib?q=info:asDSeTf0nCEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN3NjT77zPkPYmE8lxxHS40skuZIwoS&scisf=4&ct=citation&cd=119&hl=en
+Download bibtex file OK.
+
+File healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 9 seconds before executing next page
+
+Page: 120
+Internet of Things: Application and prospect
+https://scholar.googleusercontent.com/scholar.bib?q=info:DxgkfXsyU_MJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KeAhvWSkKhMUVyX2SHOplquKGOXM&scisf=4&ct=citation&cd=120&hl=en
+Download bibtex file OK.
+
+Common lipid-altering gene variants are associated with therapeutic intervention thresholds of lipid levels in older people
+https://scholar.googleusercontent.com/scholar.bib?q=info:4kg6gCoZxQkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KSudbyybDP4rGjXwej_87NOBKDLh&scisf=4&ct=citation&cd=121&hl=en
+Download bibtex file OK.
+
+Futures Business Models for an IoT enabled Health Care sector from a causal layered perspective
+https://scholar.googleusercontent.com/scholar.bib?q=info:RXJBgt_Op1YJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4Kcm_Bdh4TAdWM2GkU954m-gxkLEy&scisf=4&ct=citation&cd=122&hl=en
+Download bibtex file OK.
+
+Dynamic power management and adaptive packet size selection for IoT in e-Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:2x9YeK_CGHsJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4Ke73GwRv5wvXMGmDWcrR6RdCaAtQ&scisf=4&ct=citation&cd=123&hl=en
+Download bibtex file OK.
+
+Home Telemonitoring for vital signs using IoT technology
+https://scholar.googleusercontent.com/scholar.bib?q=info:OVeYmTUROdAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KZxiJN-j1qAiyzJkZFpHs16Z_NBb&scisf=4&ct=citation&cd=124&hl=en
+Download bibtex file OK.
+
+Extensible disease diagnosis cloud platform with medical sensors and IoT devices
+https://scholar.googleusercontent.com/scholar.bib?q=info:LP1MGdXWRFYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KWkoDFr6hjQENaP6WtSqLBVCyPrH&scisf=4&ct=citation&cd=125&hl=en
+Download bibtex file OK.
+
+Internet of Things for Ambient Assisted Living: Challenges and Future Opportunities
+https://scholar.googleusercontent.com/scholar.bib?q=info:o-Fj7BBoDAcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KWpGzvmDcydrz4pOGREm7L8qbpN_&scisf=4&ct=citation&cd=126&hl=en
+Download bibtex file OK.
+
+Exploring formal strategy framework for the security in iot towards e-health context using computational intelligence
+https://scholar.googleusercontent.com/scholar.bib?q=info:25ejrEsD6RcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KVBc5VZZe0yk9K0LgPi7r9m1dJxy&scisf=4&ct=citation&cd=127&hl=en
+Download bibtex file OK.
+
+Internet of Things Technologies for HealthCare
+https://scholar.googleusercontent.com/scholar.bib?q=info:cUnbo_wxOpYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KdnhMbqy1YH9S2qejg4J2yrT7tiQ&scisf=4&ct=citation&cd=128&hl=en
+Download bibtex file OK.
+
+Medical Memoirs of the General Dispensary in London, for Part of the Years 1773 and 1774
+https://scholar.googleusercontent.com/scholar.bib?q=info:KT0bC5MwCgQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KX3ss8miNa4NSYF3IUTNQ4ti2NCC&scisf=4&ct=citation&cd=129&hl=en
+Download bibtex file OK.
+
+How can the internet of things help to overcome current healthcare challenges
+https://scholar.googleusercontent.com/scholar.bib?q=info:96eUk3GCG0sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KSZjBwMr1bOnQMEV5BWmx-rVioGB&scisf=4&ct=citation&cd=130&hl=en
+Download bibtex file OK.
+
+Real-time medical emergency response system: exploiting IoT and big data for public health
+https://scholar.googleusercontent.com/scholar.bib?q=info:0N8d3CloI-8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4Ka9etjDFyg5wkg7T6W8NlQnotcGN&scisf=4&ct=citation&cd=131&hl=en
+Download bibtex file OK.
+
+An Internet of Things architecture for preserving privacy of energy consumption
+https://scholar.googleusercontent.com/scholar.bib?q=info:1XFmS9zgqUEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KW-p4pAj_JNTrvHEzRftlwBkWDQ0&scisf=4&ct=citation&cd=132&hl=en
+Download bibtex file OK.
+
+The impact of the hybrid platform of internet of things and cloud computing on healthcare systems: opportunities, challenges, and open problems
+https://scholar.googleusercontent.com/scholar.bib?q=info:P4dFJPTd6D8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KWBKRn3wZVrO-4Vmt6-8dYdFGDRM&scisf=4&ct=citation&cd=133&hl=en
+Download bibtex file OK.
+
+Exploitation of social IoT for recommendation services
+https://scholar.googleusercontent.com/scholar.bib?q=info:VvgUo59_aooJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KTPm1qDO27pqogweidbh1yUjU9kg&scisf=4&ct=citation&cd=134&hl=en
+Download bibtex file OK.
+
+Wi-Fi based passive human motion sensing for in-home healthcare applications
+https://scholar.googleusercontent.com/scholar.bib?q=info:46So9mG9b-sJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KUPYkS6-Th1fiThcbzmeCFLrUCPO&scisf=4&ct=citation&cd=135&hl=en
+Download bibtex file OK.
+
+iHealth: A Fuzzy approach for provisioning Intelligent Health-care system in Smart City
+https://scholar.googleusercontent.com/scholar.bib?q=info:OQt2s7WkLeEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KQapKQ41HoDN_Cue5NKaffapf4we&scisf=4&ct=citation&cd=136&hl=en
+Download bibtex file OK.
+
+A digital ecosystem of diabetes data and technology: services, systems, and tools enabled by wearables, sensors, and apps
+https://scholar.googleusercontent.com/scholar.bib?q=info:HGIRgwRU7kIJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KRS8PDp-0HAGOrW8UVFo14FTp2sG&scisf=4&ct=citation&cd=137&hl=en
+Download bibtex file OK.
+
+Internet of Things (IoT) framework for u-healthcare system
+https://scholar.googleusercontent.com/scholar.bib?q=info:rdzFw8Yw2s8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KRQCrg9PkawmnBdLeKcmLjAv0b2D&scisf=4&ct=citation&cd=138&hl=en
+Download bibtex file OK.
+
+Internet of Things Becomes Next Big Thing.
+https://scholar.googleusercontent.com/scholar.bib?q=info:O-p4D9Cne5QJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN4KbBB5Tc5oQjNSuB_JPBdlGg4YafU&scisf=4&ct=citation&cd=139&hl=en
+Download bibtex file OK.
+
+File healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 12 seconds before executing next page
+
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5GgyaD6nHkmH2yVre_ALOOLRoxFax&scisf=4&ct=citation&cd=140&hl=en
+Download bibtex file OK.
+
+Analytical Approach for Big Data in the Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:BxeOcibqUqQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5GqiEkVmGgZG2kil0ybtLq9mZsgpU&scisf=4&ct=citation&cd=141&hl=en
+Download bibtex file OK.
+
+IoT technologies for embedded computing: A survey
+https://scholar.googleusercontent.com/scholar.bib?q=info:P8neB_EwFe4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5Gn1xAhHw7ENh8xLJXJqsPhOQWb30&scisf=4&ct=citation&cd=142&hl=en
+Download bibtex file OK.
+
+A personal health index system with IoT devices
+https://scholar.googleusercontent.com/scholar.bib?q=info:yYjdKmCeLdUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5GnTXsJ4fP8bAv1Q19J3hAbFaCdL-&scisf=4&ct=citation&cd=143&hl=en
+Download bibtex file OK.
+
+Fog Computing in the Internet of Things: Intelligence at the Edge
+https://scholar.googleusercontent.com/scholar.bib?q=info:twJLJwg4VpwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5GiW-KEw1AVqXSvSC7TryIeHD9HPZ&scisf=4&ct=citation&cd=144&hl=en
+Download bibtex file OK.
+
+Web-enabled intelligent gateways for eHealth internet-of-things
+https://scholar.googleusercontent.com/scholar.bib?q=info:gw6Wkar_eYkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5GlJiOIdX_vXX_qH2N3st4hQn09CA&scisf=4&ct=citation&cd=145&hl=en
+Download bibtex file OK.
+
+A health-iot platform based on the integration of intelligent packaging, unobtrusive bio-sensor, and intelligent medicine box
+https://scholar.googleusercontent.com/scholar.bib?q=info:CMpgH9oPqb8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5Ggl1Kl1VqqTEx5pCAK8qJ99Uoz5o&scisf=4&ct=citation&cd=146&hl=en
+Download bibtex file OK.
+
+Cybersecurity &amp; Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:wrOKYJznl-UJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5GhcgRNPo3pITHX4vtkxEMcXL1o5K&scisf=4&ct=citation&cd=147&hl=en
+Download bibtex file OK.
+
+Complexity of Cyber Security Architecture for IoT Healthcare Industry: A Comparative Study
+https://scholar.googleusercontent.com/scholar.bib?q=info:fOI-QNzcrD4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN5GpAryo5aK1M6KQlj-IlqX5cBiZr-&scisf=4&ct=citation&cd=148&hl=en
+Detected HTML or Captha detected
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN8Br7vbXeuVR9uIZq77V7B-QGVwlnV&scisf=4&ct=citation&cd=140&hl=en
+Detected HTML or Captha detected
+Page: 140
+How can the internet of things help to overcome current healthcare challenges
+
+Bibtex could not be downloaded
+Real-time medical emergency response system: exploiting IoT and big data for public health
+
+Bibtex could not be downloaded
+An Internet of Things architecture for preserving privacy of energy consumption
+
+Bibtex could not be downloaded
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN8iABtvWA4GksmT1KAG6eHY7sjXjxo&scisf=4&ct=citation&cd=140&hl=en
+Detected HTML or Captha detected
+The impact of the hybrid platform of internet of things and cloud computing on healthcare systems: opportunities, challenges, and open problems
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoN8wlDf8XD8v6mhWPx3rDCvW1-pj3UV&scisf=4&ct=citation&cd=140&hl=en
+Detected HTML or Captha detected
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoOcUiQiRUVa7q4pSYQ5QElfwOLP7JD2&scisf=4&ct=citation&cd=140&hl=en
+Detected HTML or Captha detected
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoOpN8NxdxBDtpfF9JtmT2YOy2xnX4zL&scisf=4&ct=citation&cd=140&hl=en
+Detected HTML or Captha detected
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoOpl-Rv392sxyCXkdMMfEyvUuQfy7xN&scisf=4&ct=citation&cd=140&hl=en
+Detected HTML or Captha detected
+Page: 140
+Designing a course for smart healthcare engineering education
+https://scholar.googleusercontent.com/scholar.bib?q=info:Iw7zE5gcbAoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkOwxH4RXdSFxAByufpejPLs9myps1&scisf=4&ct=citation&cd=140&hl=en
+Download bibtex file OK.
+
+Analytical Approach for Big Data in the Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:BxeOcibqUqQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO-kH2JSJPB1RTzJAbNTrSKdbMvOB&scisf=4&ct=citation&cd=141&hl=en
+Download bibtex file OK.
+
+IoT technologies for embedded computing: A survey
+https://scholar.googleusercontent.com/scholar.bib?q=info:P8neB_EwFe4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO_eB6WG82_mwyuPQ5sj5R-q2JnQd&scisf=4&ct=citation&cd=142&hl=en
+Download bibtex file OK.
+
+A personal health index system with IoT devices
+https://scholar.googleusercontent.com/scholar.bib?q=info:yYjdKmCeLdUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO4JZ3zfHThjUUWegsSaujNzYY956&scisf=4&ct=citation&cd=143&hl=en
+Download bibtex file OK.
+
+Fog Computing in the Internet of Things: Intelligence at the Edge
+https://scholar.googleusercontent.com/scholar.bib?q=info:twJLJwg4VpwJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO9cfcmG3inBqTeCf_BP9KCOdMhFy&scisf=4&ct=citation&cd=144&hl=en
+Download bibtex file OK.
+
+Web-enabled intelligent gateways for eHealth internet-of-things
+https://scholar.googleusercontent.com/scholar.bib?q=info:gw6Wkar_eYkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkOwXwHnYmNgSkIu-C3EB2rVP9ewI8&scisf=4&ct=citation&cd=145&hl=en
+Download bibtex file OK.
+
+A health-iot platform based on the integration of intelligent packaging, unobtrusive bio-sensor, and intelligent medicine box
+https://scholar.googleusercontent.com/scholar.bib?q=info:CMpgH9oPqb8J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO2GHA-iIJAVexjIwNGcPbgkL1uH8&scisf=4&ct=citation&cd=146&hl=en
+Download bibtex file OK.
+
+Cybersecurity &amp; Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:wrOKYJznl-UJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkOyegSTSZBbxEwgr-bf4YHEqjhdc1&scisf=4&ct=citation&cd=147&hl=en
+Download bibtex file OK.
+
+Complexity of Cyber Security Architecture for IoT Healthcare Industry: A Comparative Study
+https://scholar.googleusercontent.com/scholar.bib?q=info:fOI-QNzcrD4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkOw_onlYRhIcIZ-Ku41Scuhzi5hKk&scisf=4&ct=citation&cd=148&hl=en
+Download bibtex file OK.
+
+Service composition for IP smart object using realtime Web protocols: Concept and research challenges
+https://scholar.googleusercontent.com/scholar.bib?q=info:NNHdJMLbq4gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO5GdXlqRh1EnlQDHCFiTtwTZMt0T&scisf=4&ct=citation&cd=149&hl=en
+Download bibtex file OK.
+
+Interest, energy and physical-aware coalition formation and resource allocation in smart IoT applications
+https://scholar.googleusercontent.com/scholar.bib?q=info:E8YeDllUrC0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO64-ouZn7oYZtUmxkr5HW1byGZuF&scisf=4&ct=citation&cd=150&hl=en
+Download bibtex file OK.
+
+Multivariate authentication and encryption scheme for data privacy in IoT healthcare monitoring
+https://scholar.googleusercontent.com/scholar.bib?q=info:kJGlLVQgrooJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO3dUZWsZE8bWZ5WO7FBprttxcrRh&scisf=4&ct=citation&cd=151&hl=en
+Download bibtex file OK.
+
+Towards a Platform for Prototyping IoT Health Monitoring Services
+https://scholar.googleusercontent.com/scholar.bib?q=info:N6ESgC4j56YJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO1qi-YvXWv7M9o5YtkGo_e2jIfC7&scisf=4&ct=citation&cd=152&hl=en
+Download bibtex file OK.
+
+Will the Internet of Things Transform Healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:cfhkwaYHXa0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkOxIilmqoL59cY2mHlnxNYDimBySk&scisf=4&ct=citation&cd=153&hl=en
+Download bibtex file OK.
+
+Private analysis of infinite data streams via retroactive grouping
+https://scholar.googleusercontent.com/scholar.bib?q=info:Mr7N24RhKSUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO2av1VruoHc_UUVmeGs_ahZkmqKO&scisf=4&ct=citation&cd=154&hl=en
+Download bibtex file OK.
+
+The potential of Internet of Things (IOT) for assisted living applications
+https://scholar.googleusercontent.com/scholar.bib?q=info:YOB5jwpaatkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO0UZsuS9V2YYCmWKCno6-vJTYIl7&scisf=4&ct=citation&cd=155&hl=en
+Download bibtex file OK.
+
+Fog computing in body sensor networks: An energy efficient approach
+https://scholar.googleusercontent.com/scholar.bib?q=info:cU7jhX-L0V4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO7jNyVaklpH99Jk-VjxXsQMN-lxK&scisf=4&ct=citation&cd=156&hl=en
+Download bibtex file OK.
+
+Challenges &amp; Opportunities for Blockchain Powered Healthcare Systems: A Review
+https://scholar.googleusercontent.com/scholar.bib?q=info:hEEXoVvUpbcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO7_nXC97kT1HD1-9Zt3D3m27kPuN&scisf=4&ct=citation&cd=157&hl=en
+Download bibtex file OK.
+
+Implementing Internet of Things in a Remote Patient Medical Monitoring System
+https://scholar.googleusercontent.com/scholar.bib?q=info:r_Ls9tFtMBgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkOwmmlp9l-4JnpgERlFeONpC0nuHF&scisf=4&ct=citation&cd=158&hl=en
+Download bibtex file OK.
+
+Household internet and the 'need for speed': evaluating the impact of increasingly online lifestyles and the internet of things
+https://scholar.googleusercontent.com/scholar.bib?q=info:chVKGmPp_ZcJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQkO-h551DKiOdh1b4O-IQZCXtPknte&scisf=4&ct=citation&cd=159&hl=en
+Download bibtex file OK.
+
+File bibtex/healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 11 seconds before executing next page
+
+Page: 160
+Intelligent E-Health Gateway Based Ubiquitous Healthcare Systems in Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:rdhuZoeRyNgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNGGJOrtOoQTCyqOy77EvOGSXC5oU&scisf=4&ct=citation&cd=160&hl=en
+Download bibtex file OK.
+
+ARM BASED REMOTE MONITORING AND CONTROLSYSTEM FOR ENVIRONMENTAL PARAMETERS IN GREENHOUSE
+https://scholar.googleusercontent.com/scholar.bib?q=info:MP-Nc35l0GoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNP7nQ8klQ7hKtmncSzG-9gC_BLlt&scisf=4&ct=citation&cd=161&hl=en
+Download bibtex file OK.
+
+A policy enforcement framework for Internet of Things applications in the smart health
+https://scholar.googleusercontent.com/scholar.bib?q=info:UNOvo29v_MUJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNLi6FkK8rf0Sl6G1hWUWH6M2lODC&scisf=4&ct=citation&cd=162&hl=en
+Download bibtex file OK.
+
+Ontology driven personal health knowledge discovery
+https://scholar.googleusercontent.com/scholar.bib?q=info:G8ptvFlGbNEJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNMY7f4MCMeDKfr3i4Ow_JLNB6DII&scisf=4&ct=citation&cd=163&hl=en
+Download bibtex file OK.
+
+Introducing Secure Provenance in IoT: Requirements and Challenges
+https://scholar.googleusercontent.com/scholar.bib?q=info:urGY6S0vgBQJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNHCO9ynlGVL4QoXiX--7Y238NJQi&scisf=4&ct=citation&cd=164&hl=en
+Download bibtex file OK.
+
+Analog signal compression and multiplexing techniques for healthcare Internet of Things
+https://scholar.googleusercontent.com/scholar.bib?q=info:cmHjoYrDJQkJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNH2m7Xi-niG6kHZq7I2n-K-up1Mg&scisf=4&ct=citation&cd=165&hl=en
+Download bibtex file OK.
+
+On the integration of cloud computing and internet of things
+https://scholar.googleusercontent.com/scholar.bib?q=info:RrhWXMbF5d0J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNH1kupKebySNqyi6jslN08YhrWsR&scisf=4&ct=citation&cd=166&hl=en
+Download bibtex file OK.
+
+Cognitive Computing for Big Data Systems Over Iot: Frameworks, Tools and Applications
+https://scholar.googleusercontent.com/scholar.bib?q=info:b0kH6Ad3g_4J:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNDV_EcTD0vAuWwUMamLHU7juCfu8&scisf=4&ct=citation&cd=167&hl=en
+Download bibtex file OK.
+
+Cognitive Computing for Big Data Systems Over IoT
+https://scholar.googleusercontent.com/scholar.bib?q=info:U1IcPfYrazIJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNAnUJx5gnKlhejzJT5SPxdLE4Gs7&scisf=4&ct=citation&cd=168&hl=en
+Download bibtex file OK.
+
+An internet of things for healthcare
+https://scholar.googleusercontent.com/scholar.bib?q=info:W-sfN3Y79-AJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNK0fCgXkZHnorFOYTs_lz6-7Higp&scisf=4&ct=citation&cd=169&hl=en
+Download bibtex file OK.
+
+Energy efficient IoT thermometer based on fuzzy logic for fever monitoring
+https://scholar.googleusercontent.com/scholar.bib?q=info:dV3gbe5mq_MJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNBqYsuwHej0ajxVJV4fm4R9r-lBG&scisf=4&ct=citation&cd=170&hl=en
+Download bibtex file OK.
+
+Future Communication, Information and Computer Science: Proceedings of the 2014 International Conference on Future Communication, Information and …
+https://scholar.googleusercontent.com/scholar.bib?q=info:aKOENlWEkZAJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNCALQ5uqyHvdiWHyIDVbK9o2YvU4&scisf=4&ct=citation&cd=171&hl=en
+Download bibtex file OK.
+
+Demand Side Management Using the Internet of Energy based on Fog and Cloud Computing
+https://scholar.googleusercontent.com/scholar.bib?q=info:FeaJSEKkK4gJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNCFPzxvx9-oLryBPYhLuaU6hcYY9&scisf=4&ct=citation&cd=172&hl=en
+Download bibtex file OK.
+
+Multi criteria assisted context aware vertical hand-over for seamless health-care services in smart city
+https://scholar.googleusercontent.com/scholar.bib?q=info:ffKoaDzrRGgJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNFxksgGKI2xAcDgYGnpHe_jYRS0q&scisf=4&ct=citation&cd=173&hl=en
+Download bibtex file OK.
+
+Estimating the Spatiotemporal Evolution Characteristics of Diffusive Hazards Using Wireless Sensor Networks
+https://scholar.googleusercontent.com/scholar.bib?q=info:TkLsfvnbahYJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAWoQlNOT1XfhOm_gSb3j-lW3A3FHkVX7W&scisf=4&ct=citation&cd=174&hl=en

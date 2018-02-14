@@ -7,7 +7,7 @@
 
     try {
         $break_line     = "<br>";
-        $query_string   = urlencode(trim($_GET['query']));
+        $query_string   = urlencode(trim(@$_GET['query']));
         $file_name      = trim(@$_GET['query']);
         $start          = (int) @$_GET['start'];
         $page           = (int) @$_GET['page'];
@@ -23,9 +23,9 @@
             throw new Exception("Only one parameter: page or results");
         }
 
-        $file           = Util::slug(trim($file_name)) . ".bib";
+        $file           = "bibtex/" . Util::slug(trim($file_name)) . ".bib";
         $url            = GoogleScholar::getURL(0, $query_string);        
-        $cookie         = "NID=123=Ddt8zMAiwno3P3m1yM-DQWuvKMtsHy0xtR1WOJLzAWGdW1LQpc6ZHIF9xWplVKCfJZCB0qlMeer3-JIY9H4Kh_4XnIj9Hea4z57kFzDQYwtiNoRDzCRjdJv5DKjD5vi5; GSP=LD=en:LR=lang_en:NR=20:CF=4:DT=1:LM=1518563328:S=7MwTOjpEsT39UnkE";
+        $cookie         = "1P_JAR=2018-2-14-11; NID=123=Z3b8XLdrlUs5-LhNwjAUEKlFTRqzrQARRmTuJlpzEVPJKBLHgGH4n08Tj8tbXo30Hj3VZc4sZXTlWEiRydVoDE0gZ8Fuw1F1xtXmgHKuL-0tD0wlODBJLg2ItPeF2VIr; GSP=LD=pt-BR:LR=lang_en:NR=20:CF=4:LM=1518608639:S=te4t9p2xzddyHJkW";
         // $cookie         = Util::getCookie($url);
 
         $user_agent     = (!empty($_SERVER["HTTP_USER_AGENT"])) ? $_SERVER["HTTP_USER_AGENT"] : "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0";
@@ -53,6 +53,6 @@
         
 
     } catch (Exception $e) {
-        echo $e->getMessage() . $break_line;
+        Util::showMessage($e->getMessage());
     }
 ?>

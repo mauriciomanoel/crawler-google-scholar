@@ -8,7 +8,9 @@ class GoogleScholar {
         if ($includePatents) {
             $as_sdt = "0,5";
         }
-        return "https://scholar.google.com/scholar?&hl=en&as_sdt=" . $as_sdt . "&&start=" . $page . "&q=" . $query . "&btnG=";
+        $url = "https://scholar.google.com/scholar?&hl=en&as_sdt=" . $as_sdt . "&&start=" . $page . "&q=" . $query . "&btnG=";
+        Util::showMessage($url);
+        return $url;
     }
 
     public static function getDataCID($html) {
@@ -103,8 +105,6 @@ class GoogleScholar {
         $link_bibtex            = @Util::getURLFromHTML(@Util::arrayToString(Util::getHTMLFromClass($value, "gs_nta gs_nph")));
         
         return array("title"=>$title_article, "data_cid"=> $data_cid, "pdf_file"=>$pdf_article, "link_google"=>$link_article, "cited_by"=>$cited_by, "link_bibtex"=>$link_bibtex);
-
-        // return array("title"=>$title_article, "data_cid"=> $data_cid, "pdf_file"=>$pdf_article, "link_google"=>$link_article, "cited_by"=>$cited_by);
     }  
 
     public static function getCitedFromHTML($html) {
